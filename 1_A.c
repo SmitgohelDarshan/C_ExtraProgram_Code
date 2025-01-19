@@ -7,6 +7,7 @@ void main(){
     int totalmarks = 0;
     float percentage;
 
+   //just
     printf("Enter Name of student:");
     scanf("%s", name);
     printf("Enter Roll Number of student:");
