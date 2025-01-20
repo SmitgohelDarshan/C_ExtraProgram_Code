@@ -5,4 +5,5 @@ void main(){
     printf("Enter a number:");
     scanf("%d",&n);
     printf("The absolute value of %d = %d",n,abs(n));
+    
 }
