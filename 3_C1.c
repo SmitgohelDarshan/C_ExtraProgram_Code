@@ -4,6 +4,20 @@
 // ₹2,50,001 to ₹5,00,000: 5%.
 // ₹5,00,001 to ₹10,00,000: 20%.
 // Above ₹10,00,000: 30%.
+// Deductions and Benefits: 
+// Tax-free income limit increases for senior citizens: 
+// Senior Citizen (60–79): Up to ₹3,00,000 tax-free. 
+// Super Senior Citizen (80+): Up to ₹5,00,000 tax-free. 
+ 
+// Apply deductions under relevant tax rules before calculating the taxable income. 
+ 
+// Error Handling: 
+// Reject negative income values. 
+// Ensure deductions do not exceed the gross income. 
+ 
+// Constraints: 
+// Taxable income cannot be negative. If deductions exceed income, treat taxable income as ₹0. 
+// Tax rates and slab limits may vary by the user's age category.
 #include <stdio.h>
 void main(){
     float grossIncome, deductions,tax=0;
