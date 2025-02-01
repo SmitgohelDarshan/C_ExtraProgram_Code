@@ -5,6 +5,9 @@ void main(){
     printf("Enter Year: ");
     scanf("%d",&year);
     if((year %4 == 0 && year % 100 != 0) ||( year %400 ==0)){
-        printf("Enter year is leap year.");
+        printf("%d is Leap Year.",year);
+    }
+    else{
+        printf("%d is Not leap Year.",year);
     }
 }
