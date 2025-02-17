@@ -1,4 +1,4 @@
-// WAP to find whether string is palindrome or not. 
+//WAP to find whether string is palindrome or not. 
 #include <stdio.h>
 #include <string.h>
 

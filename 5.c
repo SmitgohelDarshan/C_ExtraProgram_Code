@@ -1,5 +1,4 @@
-// WAP to find a summation of a digit of a given number. (Iterative and recursive) 
-
+//WAP to find a summation of a digit of a given number. (Iterative and recursive) 
 #include <stdio.h>
 int SumIterative(int number) {
     int sum = 0;

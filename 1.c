@@ -1,4 +1,4 @@
-// WAP to find a sum of even number into 1D array.
+//WAP to find a sum of even number into 1D array.
 #include <stdio.h>
 void main(){
     int n;

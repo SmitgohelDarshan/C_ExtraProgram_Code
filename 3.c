@@ -1,4 +1,4 @@
-// WAP to find a Factor of a given number (iterative and recursive)
+//WAP to find a Factor of a given number (iterative and recursive)
 #include <stdio.h>
 void FactorsIterative(int number) {
     printf("Factors (Iterative): ");

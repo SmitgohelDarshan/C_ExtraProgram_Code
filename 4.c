@@ -1,4 +1,4 @@
-// WAP to find a factorial of a given integer (iterative and recursive) 
+//WAP to find a factorial of a given integer (iterative and recursive) 
 #include <stdio.h>
 int FactorialIterative(int number) {
     int factorial = 1;

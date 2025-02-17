@@ -1,4 +1,4 @@
-/* Print a following pattern
+/*Print a following pattern
 1
 1 2
 1 2 3

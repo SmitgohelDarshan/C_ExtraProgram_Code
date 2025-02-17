@@ -1,4 +1,5 @@
 //WAP to find a Fibonacci series up to n terms (n is entered by user) (iterative and recursive)
+
 #include <stdio.h>
 void FiboIterative(int n) {
     int a = 0, b = 1, sum;
